@@ -11,6 +11,7 @@ const Footer = () => {
           <a href="/">
             <Image
               src={footerLogo}
+              alt="Footer logo"
               width={150}
               height={46}
             />
